@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "749713410535",
+    "firebase_url": "https://smartvest-3069b-default-rtdb.firebaseio.com",
+    "project_id": "smartvest-3069b",
+    "storage_bucket": "smartvest-3069b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749713410535:android:92c8f1ac9c12de24345542",
+        "android_client_info": {
+          "package_name": "com.example.smart_band"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxZtz8sYfpx8g5SME6RSt8SaB6LVMGVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
